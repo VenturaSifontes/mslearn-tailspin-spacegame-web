@@ -40,10 +40,52 @@ steps:
   inputs:
     command: 'build'
     arguments: '--no-restore --configuration Release'
-    projects: '**/*.csproj'#ASP.NET Core
-#Build and test ASP.NET Core projects targeting .NET Core.
-#Add steps that run test, create a nuget package, deploy and more:
-#https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core
+    projects: '**/*.csproj'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
